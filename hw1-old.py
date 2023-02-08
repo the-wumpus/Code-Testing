@@ -1,7 +1,3 @@
-# Thomas Ehret
-# CS519 Applied ML
-# Dr Cao
-# NMSU Sp23
 # Homework 1
 
 # necessary libraries
